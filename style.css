@@ -1,95 +1,29 @@
 body {  
-
-  
-
     font-family: Arial;  
-
-  
-
     padding: 20px;  
-
-  
-
-    background: #f4f4f4;  
-
-  
-
+    background: #fdf6f6;  
 }  
-
-  
-
-   
-
-  
-
 h1 {  
-
-  
-
     color: #1c4c96;  
-
-  
-
     text-align: center;  
-
-  
-
 }  
-
-  
-
-   
-
-  
-
-ul {  
-
-  
-
-    line-height: 1.8;  
-
-  
-
+ul { 
+    line-height: 1.8; 
+    background-color: #1c4c96; 
 }  
-
-  
-
-   
-
-  
-
 button {  
-
-  
-
     padding: 10px;  
-
-  
-
     background: black;  
-
-  
-
-    color: white;  
-
-  
-
+    color: red;  
     border-radius: 5px;  
-
-  
-
 }  
-
 .container {  
-
-  
-
     display: flex;  
-
-  
-
     gap: 20px;  
-
-  
-
+}
+div{  
+    border: 2px solid #1c4c96;  
+    padding: 15px;  
+    border-radius: 10px; 
+    background-color: aqua; 
 }
